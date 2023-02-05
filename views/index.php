@@ -26,6 +26,8 @@
           </form>
 
           <p class="text-muted text-center mt-3 small"><a href="register.php">Create Account</a></p>
+          <!--  Make some change -->
+          <p class="text-center text-muted mt-2 small">Copyright @ Kredo 2022</p>
 
         </div>
       </div>
